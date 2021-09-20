@@ -186,4 +186,4 @@ module.exports = __webpack_require__(/*! D:\Freelancing\Travelbug\src\stungun-th
 
 /***/ })
 
-},[[0,"/js/manifest","/js/vendor"]]]);
+},[[0,"/js/manifest"]]]);
