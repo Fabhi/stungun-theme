@@ -29,7 +29,7 @@ const onScrolling = () => {
 }
 
 const adjustShare = (timeout) => {
-  if (!isMobile('1023px')) {
+  if (!isMobile('767px')) {
     $('body').removeClass('share-menu-displayed')
   } else {
     $('body').addClass('share-menu-displayed')
