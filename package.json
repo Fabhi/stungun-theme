@@ -53,5 +53,8 @@
     "desktop": "assets/screenshot-desktop.jpg",
     "mobile": "assets/screenshot-mobile.jpg"
   },
-  "version": "1.0.4"
+  "version": "1.0.4",
+  "dependencies": {
+    "husky": "^4.3.8"
+  }
 }
