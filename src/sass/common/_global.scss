@@ -61,3 +61,11 @@ fieldset {
 .medium-zoom-image {
   z-index: 5;
 }
+
+::-moz-selection {
+  background: var(--primary-subtle-color);
+}
+
+::selection {
+  background-color: var(--primary-subtle-color);
+}
