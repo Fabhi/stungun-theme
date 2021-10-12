@@ -63,6 +63,7 @@ const updating = () => {
 
   if (percent <= 100) {
     setProgress(percent)
+    console.log(progress);
   }
 
   isTicking = false
